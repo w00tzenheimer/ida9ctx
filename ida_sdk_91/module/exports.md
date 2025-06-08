@@ -1,0 +1,7 @@
+```text
+{
+global: LPH;
+local: *;
+};
+
+```
